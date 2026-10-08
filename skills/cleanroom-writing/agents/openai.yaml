@@ -1,0 +1,7 @@
+interface:
+  display_name: "Cleanroom Writing"
+  short_description: "Keep rejected ideas and decision history out of final drafts"
+  default_prompt: "Use $cleanroom-writing to turn the approved decisions into a clean final draft without carrying over rejected alternatives."
+
+policy:
+  allow_implicit_invocation: true

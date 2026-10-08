@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cleanroom-writing",
+  "version": "0.1.0",
+  "description": "Draft from approved decisions and audit final writing for rejected ideas and decision-history leakage.",
+  "author": {
+    "name": "KnifeTian"
+  },
+  "repository": "https://github.com/KnifeTian/cleanroom-writing",
+  "license": "MIT"
+}
