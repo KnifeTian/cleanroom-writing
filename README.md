@@ -129,6 +129,8 @@ The instructions are English. Output follows the user's requested language; othe
 
 ## When to use it
 
+Use it to finalize or consistently revise master's theses, doctoral dissertations, and academic papers after iterative discussion, supervisor feedback, and repeated edits. It also applies to technical reports, project proposals, and product documentation.
+
 - Final drafting after multiple alternatives or revisions.
 - Applying an approved modification plan across a document.
 - Consolidating author comments, reviewer feedback, and older drafts.

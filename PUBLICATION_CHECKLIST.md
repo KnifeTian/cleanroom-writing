@@ -4,7 +4,9 @@ Local package prepared on 2026-10-08. Confirmed repository name: `cleanroom-writ
 
 GitHub repository Description (copy when creating the repository):
 
-> Writing skill for Codex and Claude Code. Keep rejected ideas out of final drafts. 多轮 AI 写作定稿与审计，防止废案回流；附独立提示词。
+> Writing skill for Codex and Claude Code. Keep rejected ideas out of final drafts. 面向论文与技术文档的多轮 AI 写作定稿与审计，防止废案回流；附独立提示词。
+
+Suggested GitHub Topics (11): `agent-skills`, `codex`, `claude-code`, `llm`, `ai-writing`, `writing-assistant`, `prompt-engineering`, `document-editing`, `academic-writing`, `research-writing`, `thesis-writing`.
 
 ## Owner decisions before publication
 
